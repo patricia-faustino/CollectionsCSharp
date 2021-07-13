@@ -74,7 +74,8 @@ namespace CSharpCollections
             string[] clone = aulas.Clone() as string[];
             Imprimir(clone);
 
-
+            // limpar um array
+            // Array.Clear(<array_que_vai_ser_limpo>, <indice_inical>, <quantidade_de_elementos_que_serão_limpos>));
             Array.Clear(clone, 1, 2);
             Imprimir(clone);
 
