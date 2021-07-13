@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ListaSomenteLeitura
+namespace OrdenandoESomando
 {
     class Curso
     {
@@ -33,6 +33,23 @@ namespace ListaSomenteLeitura
             get { return intrutor; }
             set { intrutor = value; }
         }
+        public int TempoTotal
+        {
+            get
+            {
+                /*int total = 0;
+                foreach(var aula in aulas)
+                {
+                    total += aula.Tempo;
+                }
+                return total;*/
+                // LINQ = Language Integrated Query
+                //Consulta Integrada à Linguagem
+
+                return aulas.Sum(aula => aula.Tempo);
+            }
+        }
+
         public Curso(string nome, string intrutor)
         {
             this.aulas = new List<Aula>();
@@ -40,9 +57,14 @@ namespace ListaSomenteLeitura
             this.intrutor = intrutor;
         }
 
-        public void Adicionar(Aula aula)
+        internal void Adicionar(Aula aula)
         {
             this.aulas.Add(aula);
+        }
+
+        public override string ToString()
+        {
+            return $"Curso: {nome}, Tempo Total: {TempoTotal}, Aulas: {string.Join(", ", aulas)}";
         }
 
 
