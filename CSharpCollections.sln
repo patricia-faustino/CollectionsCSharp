@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCollections", "CSharp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListasDeObjetos", "ListasDeObjetos\ListasDeObjetos.csproj", "{6712F0D7-5436-42A3-832D-0FD53CC7E8E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaSomenteLeitura", "ListaSomenteLeitura\ListaSomenteLeitura.csproj", "{D561A5B4-4311-4454-B915-1613E63BE25B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6712F0D7-5436-42A3-832D-0FD53CC7E8E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6712F0D7-5436-42A3-832D-0FD53CC7E8E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6712F0D7-5436-42A3-832D-0FD53CC7E8E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D561A5B4-4311-4454-B915-1613E63BE25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D561A5B4-4311-4454-B915-1613E63BE25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D561A5B4-4311-4454-B915-1613E63BE25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D561A5B4-4311-4454-B915-1613E63BE25B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

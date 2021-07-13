@@ -24,6 +24,7 @@ namespace ListasDeObjetos
 
             Imprimir(aulas);
 
+            //para usar o sort em uma lista de objetos precisamos implementar a interface IComparable
             aulas.Sort();
             Imprimir(aulas);
 
@@ -38,6 +39,7 @@ namespace ListasDeObjetos
             Console.Clear();
             foreach(var aula in aulas)
             {
+                //Para imprimir os dados de um objeto necessitamos implementar o método ToString
                 Console.WriteLine(aula);
             }
         }
