@@ -1,0 +1,6 @@
+C:\src\CSharpCollections\ListaSomenteLeitura\bin\Debug\ListaSomenteLeitura.exe.config
+C:\src\CSharpCollections\ListaSomenteLeitura\bin\Debug\ListaSomenteLeitura.exe
+C:\src\CSharpCollections\ListaSomenteLeitura\bin\Debug\ListaSomenteLeitura.pdb
+C:\src\CSharpCollections\ListaSomenteLeitura\obj\Debug\ListaSomenteLeitura.csproj.CoreCompileInputs.cache
+C:\src\CSharpCollections\ListaSomenteLeitura\obj\Debug\ListaSomenteLeitura.exe
+C:\src\CSharpCollections\ListaSomenteLeitura\obj\Debug\ListaSomenteLeitura.pdb

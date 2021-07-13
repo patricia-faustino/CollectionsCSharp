@@ -1,0 +1,7 @@
+C:\src\CSharpCollections\ListasDeObjetos\bin\Debug\ListasDeObjetos.exe.config
+C:\src\CSharpCollections\ListasDeObjetos\bin\Debug\ListasDeObjetos.exe
+C:\src\CSharpCollections\ListasDeObjetos\bin\Debug\ListasDeObjetos.pdb
+C:\src\CSharpCollections\ListasDeObjetos\obj\Debug\ListasDeObjetos.csprojAssemblyReference.cache
+C:\src\CSharpCollections\ListasDeObjetos\obj\Debug\ListasDeObjetos.csproj.CoreCompileInputs.cache
+C:\src\CSharpCollections\ListasDeObjetos\obj\Debug\ListasDeObjetos.exe
+C:\src\CSharpCollections\ListasDeObjetos\obj\Debug\ListasDeObjetos.pdb
