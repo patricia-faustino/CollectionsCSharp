@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPoderDosSets", "OPoderDosS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetNoModelo", "SetNoModelo\SetNoModelo.csproj", "{D1D9007E-0EF4-4DB3-96B9-6C45E5983FEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DicionariosA1", "DicionariosA1\DicionariosA1.csproj", "{4152762B-D736-4DC9-A9A2-A9D0DE5444B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D1D9007E-0EF4-4DB3-96B9-6C45E5983FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1D9007E-0EF4-4DB3-96B9-6C45E5983FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1D9007E-0EF4-4DB3-96B9-6C45E5983FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4152762B-D736-4DC9-A9A2-A9D0DE5444B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4152762B-D736-4DC9-A9A2-A9D0DE5444B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4152762B-D736-4DC9-A9A2-A9D0DE5444B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4152762B-D736-4DC9-A9A2-A9D0DE5444B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+C:\src\CSharpCollections\DicionariosA1\obj\Debug\DicionariosA1.csprojAssemblyReference.cache
+C:\src\CSharpCollections\DicionariosA1\obj\Debug\DicionariosA1.csproj.CoreCompileInputs.cache
+C:\src\CSharpCollections\DicionariosA1\bin\Debug\DicionariosA1.exe.config
+C:\src\CSharpCollections\DicionariosA1\bin\Debug\DicionariosA1.exe
+C:\src\CSharpCollections\DicionariosA1\bin\Debug\DicionariosA1.pdb
+C:\src\CSharpCollections\DicionariosA1\obj\Debug\DicionariosA1.exe
+C:\src\CSharpCollections\DicionariosA1\obj\Debug\DicionariosA1.pdb
