@@ -1,0 +1,6 @@
+C:\src\CSharpCollections\SetNoModelo\bin\Debug\SetNoModelo.exe.config
+C:\src\CSharpCollections\SetNoModelo\bin\Debug\SetNoModelo.exe
+C:\src\CSharpCollections\SetNoModelo\bin\Debug\SetNoModelo.pdb
+C:\src\CSharpCollections\SetNoModelo\obj\Debug\SetNoModelo.csproj.CoreCompileInputs.cache
+C:\src\CSharpCollections\SetNoModelo\obj\Debug\SetNoModelo.exe
+C:\src\CSharpCollections\SetNoModelo\obj\Debug\SetNoModelo.pdb

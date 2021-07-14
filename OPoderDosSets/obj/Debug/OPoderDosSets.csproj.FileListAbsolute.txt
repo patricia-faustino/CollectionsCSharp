@@ -1,0 +1,7 @@
+C:\src\CSharpCollections\OPoderDosSets\bin\Debug\OPoderDosSets.exe.config
+C:\src\CSharpCollections\OPoderDosSets\bin\Debug\OPoderDosSets.exe
+C:\src\CSharpCollections\OPoderDosSets\bin\Debug\OPoderDosSets.pdb
+C:\src\CSharpCollections\OPoderDosSets\obj\Debug\OPoderDosSets.csprojAssemblyReference.cache
+C:\src\CSharpCollections\OPoderDosSets\obj\Debug\OPoderDosSets.csproj.CoreCompileInputs.cache
+C:\src\CSharpCollections\OPoderDosSets\obj\Debug\OPoderDosSets.exe
+C:\src\CSharpCollections\OPoderDosSets\obj\Debug\OPoderDosSets.pdb
