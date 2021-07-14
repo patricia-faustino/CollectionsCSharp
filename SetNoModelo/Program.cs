@@ -32,6 +32,12 @@ namespace SetNoModelo
                 Console.WriteLine(aluno);
             }
 
+            Console.WriteLine($"O aluno a1 {aluno1} está matriculado?");
+            Console.WriteLine(csharpColecoes.EstaMatriculado(aluno1));
+
+            Aluno tonini = new Aluno("Vanessa Tonini", 34672);
+            Console.WriteLine($"Tonini está matriculada? {csharpColecoes.EstaMatriculado(tonini)}");
+            Console.WriteLine(aluno1.Equals(tonini));
 
             Console.ReadLine();
         }

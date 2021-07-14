@@ -35,5 +35,27 @@ namespace SetNoModelo
             return $"[Nome: {nome}, Matrícula: {numeroMatricula}]"; 
         }
 
+        //sobrescrevendo do default do equals
+        public override bool Equals(object obj)
+        {
+            Aluno outro = obj as Aluno;
+
+            if (outro == null)
+                return false;
+
+            return this.nome.Equals(outro.nome);
+        }
+
+        // !! a rapidez da busca depende do CÓDIGO DE DISPERSÃO!
+        // se implementar o equals implementar o HashCode
+
+        //Dois objetos que são iguais possuem o mesmo hash code.
+        //PORÉM, o contrário não é verdadeiro:
+        //Dois objetos com o mesmo hash codes não são necessariamente iguais!!
+        public override int GetHashCode()
+        {
+            return this.nome.GetHashCode();
+        }
+
     }
 }

@@ -78,6 +78,11 @@ namespace SetNoModelo
             this.aulas.Add(aula);
         }
 
+        public bool EstaMatriculado(Aluno aluno)
+        {
+            return alunos.Contains(aluno);
+        }
+
         public override string ToString()
         {
             return $"Curso: {nome}, Tempo Total: {TempoTotal}, Aulas: {string.Join(", ", aulas)}";
