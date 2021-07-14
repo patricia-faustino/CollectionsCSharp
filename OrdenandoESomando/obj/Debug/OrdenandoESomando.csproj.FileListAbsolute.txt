@@ -4,3 +4,4 @@ C:\src\CSharpCollections\OrdenandoESomando\bin\Debug\OrdenandoESomando.pdb
 C:\src\CSharpCollections\OrdenandoESomando\obj\Debug\OrdenandoESomando.csproj.CoreCompileInputs.cache
 C:\src\CSharpCollections\OrdenandoESomando\obj\Debug\OrdenandoESomando.exe
 C:\src\CSharpCollections\OrdenandoESomando\obj\Debug\OrdenandoESomando.pdb
+C:\src\CSharpCollections\OrdenandoESomando\obj\Debug\OrdenandoESomando.csprojAssemblyReference.cache

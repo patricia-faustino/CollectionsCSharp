@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaSomenteLeitura", "List
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdenandoESomando", "OrdenandoESomando\OrdenandoESomando.csproj", "{8274A580-8A68-4C55-A1BD-206C3C42CC9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPoderDosSets", "OPoderDosSets\OPoderDosSets.csproj", "{67483F70-E18B-47F7-BE63-7CE24750DDCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8274A580-8A68-4C55-A1BD-206C3C42CC9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8274A580-8A68-4C55-A1BD-206C3C42CC9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8274A580-8A68-4C55-A1BD-206C3C42CC9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67483F70-E18B-47F7-BE63-7CE24750DDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67483F70-E18B-47F7-BE63-7CE24750DDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67483F70-E18B-47F7-BE63-7CE24750DDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67483F70-E18B-47F7-BE63-7CE24750DDCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
