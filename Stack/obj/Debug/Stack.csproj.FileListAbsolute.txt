@@ -1,0 +1,6 @@
+C:\src\CSharpCollections\Stack\bin\Debug\Stack.exe.config
+C:\src\CSharpCollections\Stack\bin\Debug\Stack.exe
+C:\src\CSharpCollections\Stack\bin\Debug\Stack.pdb
+C:\src\CSharpCollections\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\src\CSharpCollections\Stack\obj\Debug\Stack.exe
+C:\src\CSharpCollections\Stack\obj\Debug\Stack.pdb
