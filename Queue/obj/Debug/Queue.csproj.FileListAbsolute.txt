@@ -1,0 +1,6 @@
+C:\src\CSharpCollections\Queue\bin\Debug\Queue.exe.config
+C:\src\CSharpCollections\Queue\bin\Debug\Queue.exe
+C:\src\CSharpCollections\Queue\bin\Debug\Queue.pdb
+C:\src\CSharpCollections\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\src\CSharpCollections\Queue\obj\Debug\Queue.exe
+C:\src\CSharpCollections\Queue\obj\Debug\Queue.pdb
